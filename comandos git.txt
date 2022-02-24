@@ -1,0 +1,5 @@
+git init			#
+git status			#
+git add "nome do codigo.txt"	#
+git add .			# adiciona todos os arquivos pendentes de uma só vez
+git commint -m "mensagem sobre o que foi atualizado"	#cria uma versão
