@@ -3,3 +3,6 @@ git status			#
 git add "nome do codigo.txt"	#
 git add .			# adiciona todos os arquivos pendentes de uma só vez
 git commint -m "mensagem sobre o que foi atualizado"	#cria uma versão
+git remote add origin http:\\..	#vincula a um repositorio no GitHub
+git remote remove origin        # remove um vinculo de origem
+git push --set-upstream origin master	#envia para branch master
